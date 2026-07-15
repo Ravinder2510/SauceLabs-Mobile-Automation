@@ -1,3 +1,8 @@
+// =========================================================================================
+// NATIVE MOBILE AUTOMATION END-TO-END PIPELINE ENGINE
+// This script automates product selection, detail verification, and cart staging on an Android device.
+// =========================================================================================
+
 const { remote } = require('webdriverio');
 
 const capabilities = {
